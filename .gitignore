@@ -16,3 +16,7 @@ OAI_CONFIG_LIST.json
 /output/*
 /__pycache__/*
 */__pycache__/*
+
+# Start Generation Here
+**/__pycache__/*
+# End Generation Here
